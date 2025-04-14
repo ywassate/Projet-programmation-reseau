@@ -1,9 +1,0 @@
-Membre 1 : 
-Nom : Sekkat  
-Prénom : Mohammed Idriss
-github_login : IMSEKKAT
-
-Membre 2 : 
-Nom : Wassate
-Prénom : Yassine
-github_login : ywassate
